@@ -27,7 +27,7 @@ The worst thing that happened when I was building the website was the `<form>` v
 To create the relationship between SCSS and CSS files you need to use the command "sass --watch something.scss:something.css" in the terminal. This command automatically updates the <ins>something</ins>.css file when we save changes to the <ins>something</ins>.scss file. (It also creates the <ins>something</ins>.css file if it doesn't exist).
 
 ## Links
-* Acess the website clicking here -> <a href="wendelfrancy.com">wendelfrancy.com</a>
+* Acess the website clicking here -> <a href="https://www.wendelfrancy.com" target="_blank">wendelfrancy.com</a>
 <div>
   <a href="https://www.linkedin.com/in/wendel-francy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:contact@wendelfrancy.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
